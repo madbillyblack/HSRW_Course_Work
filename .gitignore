@@ -1,8 +1,14 @@
 *.log
 *.gz
+*.zip
+*.elf
+*.hex
+*.o
+*.swp
 **/.metadata/*
 **/.recommenders/*
 **/.settings/*
 **/.project
 **/bin/*
 **/.classpath
+
