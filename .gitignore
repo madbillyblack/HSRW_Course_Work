@@ -5,10 +5,15 @@
 *.hex
 *.o
 *.swp
+*.layout
+*.cbp
+*.depend
+*.exe
 **/.metadata/*
 **/.recommenders/*
 **/.settings/*
 **/.project
 **/bin/*
 **/.classpath
+**/obj/*
 
